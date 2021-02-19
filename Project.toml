@@ -1,0 +1,10 @@
+name = "ParticleSwarmAlignment"
+uuid = "8d94c4a9-062d-46e8-8fca-d6152af03538"
+authors = ["Kyle Ferriter <kylerferriter@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
